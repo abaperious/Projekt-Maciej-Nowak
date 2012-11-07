@@ -1,3 +1,4 @@
-zawartosc2
+zawartosc3
 
-i cos jeszcze
+i cos 
+usunalem poprzednia linie
